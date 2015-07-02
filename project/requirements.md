@@ -61,4 +61,4 @@ complete by this date at the latest.
 
 #### Submissions
 
-Team Names - github.com/repository
+Team Names Happy Juggles - https://github.com/hoshikoo/Happy_Juggles
